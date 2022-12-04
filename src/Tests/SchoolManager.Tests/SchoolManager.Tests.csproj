@@ -23,8 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\Domain\SchoolManager.Domain\SchoolManager.Domain.csproj" />
-    <ProjectReference Include="..\src\Services\SchoolManager.Api\SchoolManager.Api.csproj" />
+    <ProjectReference Include="..\..\Services\SchoolManager.Api\SchoolManager.Api.csproj" />
   </ItemGroup>
 
 </Project>
